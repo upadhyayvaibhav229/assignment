@@ -362,7 +362,7 @@
 }
 
 /* Small Mobiles */
-@media (min-width: 344px) and (max-width: 766px) {
+@media (min-width: 300px) and (max-width: 766px) {
     .nav-links,
   #nav_button {
     display: none;
